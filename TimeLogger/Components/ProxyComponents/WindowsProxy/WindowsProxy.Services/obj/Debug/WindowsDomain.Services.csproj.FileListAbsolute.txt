@@ -1,0 +1,5 @@
+D:\test\TimeLogger\Components\WindowsDomain\WindowsDomain.Services\bin\Debug\WindowsDomain.Services.dll
+D:\test\TimeLogger\Components\WindowsDomain\WindowsDomain.Services\bin\Debug\WindowsDomain.Services.pdb
+D:\test\TimeLogger\Components\WindowsDomain\WindowsDomain.Services\obj\Debug\WindowsDomain.Services.csprojResolveAssemblyReference.cache
+D:\test\TimeLogger\Components\WindowsDomain\WindowsDomain.Services\obj\Debug\WindowsDomain.Services.dll
+D:\test\TimeLogger\Components\WindowsDomain\WindowsDomain.Services\obj\Debug\WindowsDomain.Services.pdb

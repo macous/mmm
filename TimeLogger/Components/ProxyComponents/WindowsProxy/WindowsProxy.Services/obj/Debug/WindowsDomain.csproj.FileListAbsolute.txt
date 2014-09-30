@@ -1,0 +1,4 @@
+D:\test\TimeLogger\Components\WindowsDomain\WindowsDomain.Services\bin\Debug\WindowsDomain.dll
+D:\test\TimeLogger\Components\WindowsDomain\WindowsDomain.Services\bin\Debug\WindowsDomain.pdb
+D:\test\TimeLogger\Components\WindowsDomain\WindowsDomain.Services\obj\Debug\WindowsDomain.dll
+D:\test\TimeLogger\Components\WindowsDomain\WindowsDomain.Services\obj\Debug\WindowsDomain.pdb

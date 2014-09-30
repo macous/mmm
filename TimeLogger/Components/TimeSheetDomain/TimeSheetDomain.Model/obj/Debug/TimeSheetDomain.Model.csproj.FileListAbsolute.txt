@@ -1,0 +1,4 @@
+D:\test\TimeLogger\Components\TimeSheetDomain\TimeSheetDomain.Model\bin\Debug\TimeSheetDomain.Model.dll
+D:\test\TimeLogger\Components\TimeSheetDomain\TimeSheetDomain.Model\bin\Debug\TimeSheetDomain.Model.pdb
+D:\test\TimeLogger\Components\TimeSheetDomain\TimeSheetDomain.Model\obj\Debug\TimeSheetDomain.Model.dll
+D:\test\TimeLogger\Components\TimeSheetDomain\TimeSheetDomain.Model\obj\Debug\TimeSheetDomain.Model.pdb
