@@ -1,9 +1,0 @@
-D:\test\TimeLogger\Components\UtilityComponents\UtilityComponent\bin\Debug\UtilityComponent.dll
-D:\test\TimeLogger\Components\UtilityComponents\UtilityComponent\bin\Debug\UtilityComponent.pdb
-D:\test\TimeLogger\Components\UtilityComponents\UtilityComponent\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
-D:\test\TimeLogger\Components\UtilityComponents\UtilityComponent\bin\Debug\Microsoft.Practices.Unity.dll
-D:\test\TimeLogger\Components\UtilityComponents\UtilityComponent\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
-D:\test\TimeLogger\Components\UtilityComponents\UtilityComponent\bin\Debug\Microsoft.Practices.Unity.Interception.dll
-D:\test\TimeLogger\Components\UtilityComponents\UtilityComponent\obj\Debug\UtilityComponent.dll
-D:\test\TimeLogger\Components\UtilityComponents\UtilityComponent\obj\Debug\UtilityComponent.pdb
-D:\test\TimeLogger\Components\UtilityComponents\UtilityComponent\obj\Debug\UtilityComponent.csprojResolveAssemblyReference.cache

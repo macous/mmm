@@ -1,4 +1,0 @@
-D:\test\TimeLogger\Components\UtilityComponents\LoggingComponent\bin\Debug\LoggingComponent.dll
-D:\test\TimeLogger\Components\UtilityComponents\LoggingComponent\bin\Debug\LoggingComponent.pdb
-D:\test\TimeLogger\Components\UtilityComponents\LoggingComponent\obj\Debug\LoggingComponent.dll
-D:\test\TimeLogger\Components\UtilityComponents\LoggingComponent\obj\Debug\LoggingComponent.pdb

@@ -1,5 +1,0 @@
-D:\test\TimeLogger\Components\ProxyComponents\WindowsProxy\WindowsProxy.Model\bin\Debug\WindowsProxy.Model.dll
-D:\test\TimeLogger\Components\ProxyComponents\WindowsProxy\WindowsProxy.Model\bin\Debug\WindowsProxy.Model.pdb
-D:\test\TimeLogger\Components\ProxyComponents\WindowsProxy\WindowsProxy.Model\obj\Debug\WindowsProxy.Model.csprojResolveAssemblyReference.cache
-D:\test\TimeLogger\Components\ProxyComponents\WindowsProxy\WindowsProxy.Model\obj\Debug\WindowsProxy.Model.dll
-D:\test\TimeLogger\Components\ProxyComponents\WindowsProxy\WindowsProxy.Model\obj\Debug\WindowsProxy.Model.pdb

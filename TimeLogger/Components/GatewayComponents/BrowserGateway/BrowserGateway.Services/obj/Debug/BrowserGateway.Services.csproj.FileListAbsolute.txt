@@ -1,6 +1,0 @@
-D:\test\TimeLogger\Components\GatewayComponents\BrowserGateway\BrowserGateway.Services\bin\Debug\Resources\IEDriverServer.exe
-D:\test\TimeLogger\Components\GatewayComponents\BrowserGateway\BrowserGateway.Services\bin\Debug\BrowserDomain.Services.dll
-D:\test\TimeLogger\Components\GatewayComponents\BrowserGateway\BrowserGateway.Services\bin\Debug\BrowserDomain.Services.pdb
-D:\test\TimeLogger\Components\GatewayComponents\BrowserGateway\BrowserGateway.Services\obj\Debug\BrowserGateway.Services.csprojResolveAssemblyReference.cache
-D:\test\TimeLogger\Components\GatewayComponents\BrowserGateway\BrowserGateway.Services\obj\Debug\BrowserDomain.Services.dll
-D:\test\TimeLogger\Components\GatewayComponents\BrowserGateway\BrowserGateway.Services\obj\Debug\BrowserDomain.Services.pdb

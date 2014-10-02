@@ -1,4 +1,0 @@
-D:\test\TimeLogger\Components\TimeSheetDomain\TimeSheetDomain.Services\bin\Debug\TimeSheetDomain.Services.dll
-D:\test\TimeLogger\Components\TimeSheetDomain\TimeSheetDomain.Services\bin\Debug\TimeSheetDomain.Services.pdb
-D:\test\TimeLogger\Components\TimeSheetDomain\TimeSheetDomain.Services\obj\Debug\TimeSheetDomain.Services.dll
-D:\test\TimeLogger\Components\TimeSheetDomain\TimeSheetDomain.Services\obj\Debug\TimeSheetDomain.Services.pdb
